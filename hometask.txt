@@ -1,0 +1,1 @@
+Ветка master имеет изменения из веток hat и boots_buttons, ветка origin/demo имеет свои коммиты
